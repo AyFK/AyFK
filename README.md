@@ -1,5 +1,6 @@
-✨TEST ✨
+22 y/o programmer, primarily self taught. Interested in math, machine learning, data analysis, stocks, smart contracts. 
 
+contacts: davidsstudier@gmail.com
 
 <!---
 AyFK/AyFK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
