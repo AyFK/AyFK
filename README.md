@@ -1,4 +1,4 @@
-22 y/o programmer, primarily self taught. Interested in math, machine learning, data analysis, financial markets, smart contracts. 
+23 y/o programmer, primarily self taught. Interested in math, machine learning, data analysis, financial markets, smart contracts. 
 
 contacts: davidsstudier@gmail.com
 
